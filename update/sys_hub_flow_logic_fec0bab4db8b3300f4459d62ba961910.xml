@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">bac0bab4db8b3300f4459d62ba96190f</block>
+        <comment/>
+        <connected_to>2689fcf8-9e1b-4be8-9a49-9532d685977c</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">89924238db0b3300f4459d62ba961929</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>bhausen</sys_created_by>
+        <sys_created_on>2019-08-01 14:43:32</sys_created_on>
+        <sys_id>fec0bab4db8b3300f4459d62ba961910</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_fec0bab4db8b3300f4459d62ba961910</sys_update_name>
+        <sys_updated_by>bhausen</sys_updated_by>
+        <sys_updated_on>2019-08-01 14:46:34</sys_updated_on>
+        <ui_id>d4d6d1b7-174a-465f-8dba-29fa31d44cd8</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=fec0bab4db8b3300f4459d62ba961910"/>
+</record_update>
